@@ -1,3 +1,34 @@
-.aa{
-    background-image: url('blob:https://web.whatsapp.com/05186b6a-3f86-4150-aadd-2c90c9e82887');
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-image: url('file:///C:/Users/HP/Documents/GitHub/DD/images/3166b9ff-02bf-44e2-b857-795773f4a77a.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 32rem;
+}
+ul{
+    display: flex;
+    background-image: url('file:///C:/Users/HP/Documents/GitHub/DD/images/design.jpg');
+}
+li{
+    padding: 10px;
+    list-style-type: none;
+}
+section{
+    display: flex;
+}
+.footer-flex{
+    display: flex;
+    justify-content: space-around;
+}
+.b{
+    display: flex;
+}
+.boy{
+    width: 69%;
+}
+.logo{
+    height: 46px;
+    margin-left: -305px;
+    margin-top: 13px;
 }
