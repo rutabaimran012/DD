@@ -5,10 +5,10 @@ nav{
     background-repeat: no-repeat;
     background-size: contain;
     height: 32rem;
+    position: relative;
 }
 ul{
     display: flex;
-    background-image: url('file:///C:/Users/HP/Documents/GitHub/DD/images/design.jpg');
 }
 li{
     padding: 10px;
@@ -16,6 +16,11 @@ li{
 }
 section{
     display: flex;
+    background-image: url('file:///C:/Users/HP/Documents/GitHub/DD/images/design.jpg');
+    height: 100rem;
+    background-repeat: no-repeat;
+    margin-top: -35rem;
+    margin-left: 16rem;
 }
 .footer-flex{
     display: flex;
